@@ -44,3 +44,8 @@ A simple logical AND between:
 - **Bright or white areas** on this map highlight where both population growth and vegetation change coincide.
 - Intensity is scaled by how large the population jump is.
 - Essentially, bigger population gains yield a stronger hotspot signal, emphasizing locations of potentially greater human impact.
+
+![Description](EDA_plots.png)
+
+![Timelapse](assaba_timelapse.gif)
+
