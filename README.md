@@ -47,5 +47,3 @@ A simple logical AND between:
 
 ![Description](EDA_plots.png)
 
-![Timelapse](assaba_timelapse.gif)
-
